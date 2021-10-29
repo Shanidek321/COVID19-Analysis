@@ -1,7 +1,7 @@
 # COVID19-Analysis
-Using Covid Data from OurWorldInData which contains
+<h3> Using Covid Data from OurWorldInData which contains
 information about cases of death, infection from every region, location
-and date.
+and date.</h3>
 I splitted the Data into 2 excel files and used SQL to arrange the data
 so it could be easily used with Tableau and finally,
 Used Tableau to visualize the data.
