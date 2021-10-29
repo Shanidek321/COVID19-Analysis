@@ -13,7 +13,7 @@ so it could be easily used with Tableau and used Tableau to visualize the data.<
 <img src="https://cdn.discordapp.com/attachments/345269889537146881/903629541589807184/unknown.png"> 
 <img src="https://media.discordapp.net/attachments/345269889537146881/903629587639074836/unknown.png"> 
 <br>
-<h2> To sum things up I created a map showing the percent population infected per country. </h2>
+<h3> To sum things up I created a map showing the percent population infected per country. </h3>
 <br>
 <img src="https://media.discordapp.net/attachments/345269889537146881/903629695550119957/unknown.png?width=586&height=676"> 
 <br>
