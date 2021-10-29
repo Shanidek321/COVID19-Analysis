@@ -8,8 +8,7 @@ and date.</h3>
 <h3> I splitted the Data into 2 excel files and used SQL to arrange the data
 so it could be easily used with Tableau and used Tableau to visualize the data.</h3>
 <br>
-<span> the Tableau dashboard demonstrates the total deaths from the total cases and its percentage </span>
-
+<h3> the Tableau dashboard demonstrates the total deaths from the total cases and its percentage </h3>
 <h3> In addition, total deaths per continent, and percentage of infections per country.</h3>
 <br>
 <img src="https://cdn.discordapp.com/attachments/345269889537146881/903629541589807184/unknown.png"> 
